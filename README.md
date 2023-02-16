@@ -14,3 +14,7 @@ This is good example of [my code](https://gist.github.com/menaveenrana/730935976
 ### Notebook
 
 This is link to [my notebook](https://colab.research.google.com/drive/1CacN4qjjUHJKuDaVdL7eoOompXKxgwdH?usp=sharing)
+
+### Issue
+
+![image](https://user-images.githubusercontent.com/47136570/219409274-09968366-b4ae-4653-a37b-308d1eef0d96.png)

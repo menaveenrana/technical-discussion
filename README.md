@@ -10,3 +10,7 @@ This is a demo repo for sharing ideas around communication
 ### Gist
 
 This is good example of [my code](https://gist.github.com/menaveenrana/73093597643dad5a24de629992bc3f2c)
+
+### Notebook
+
+This is link to [my notebook](https://colab.research.google.com/drive/1CacN4qjjUHJKuDaVdL7eoOompXKxgwdH?usp=sharing)
